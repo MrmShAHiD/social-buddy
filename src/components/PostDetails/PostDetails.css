@@ -1,0 +1,14 @@
+.post{
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 20px;
+    border: 3px solid lightgrey;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.comments{
+    padding: 10px;
+}
